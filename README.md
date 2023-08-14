@@ -52,7 +52,7 @@ And now, you should have something like this in the working directory.
 
 ![Android folder structure with WhatsApp Backup](imgs/android_structure_backup.png)
 #### Extracting
-Simply invoke the following command from shell.
+Simply invoke the following command from the shell.
 ```sh
 wtsexporter -a -k key -b msgstore.db.crypt14
 ```
